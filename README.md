@@ -1,2 +1,2 @@
-# stripe-integration-at-nexyjs
+# stripe-integration-at-NextJs
 test strip payment
